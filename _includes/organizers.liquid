@@ -11,7 +11,9 @@
         
         <div>
           {% if organizer.socials %}
-            {% for platform, url in organizer.socials %}
+            {% for social in organizer.socials %}
+              {% assign platform = social[0] %}
+              {% assign url = social[1] %}
               <a href="{{ url }}" target="_blank" rel="noopener noreferrer" class="mx-1">
                 {% case platform %}
                   {% when 'twitter' %}
