@@ -3,6 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: 
+og_image: https://nlpsi-workshop.github.io/assets/img/HD_transparent_picture.png
 
 # profile:
 #  align: right
