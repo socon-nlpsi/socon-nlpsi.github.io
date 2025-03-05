@@ -37,6 +37,14 @@ NLPSI seeks to bridge these two disciplines with a primary focus on NLP research
 
 #### [Call for papers](https://nlpsi-workshop.github.io/call_for_papers/)
 
+
+## Important Dates
+
+- **Paper submission deadline:** March 21, 2025
+- **Notification of acceptance:** April 30, 2025
+- **Camera ready paper due:** May 26, 2025
+- **NLPSI Workshop day:** June 23, 2025
+
 ### Invited Speaker
 
 TBD
