@@ -23,12 +23,13 @@
 
 
 - name: "Flor Miriam Plaza-del-Arco"
-  affiliation: "Bocconi University"
+  affiliation: "Leiden University"
   image: "/assets/img/flor.png"
   socials:
     website: "https://fmplaza.github.io/"
     scholar: "https://scholar.google.es/citations?user=4GqDwGEAAAAJ&hl=es"
     twitter: "https://x.com/florplaza22"
+    bluesky: "https://bsky.app/profile/florplaza.bsky.social"
     linkedin: "https://www.linkedin.com/in/flor-miriam-plaza-del-arco-phd-395770b9/"
 
 - name: "Roman Klinger"
