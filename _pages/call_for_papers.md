@@ -68,7 +68,7 @@ The workshop proceedings will be published at https://workshop-proceedings.icwsm
 
 ## Important Dates
 
-- **Paper submission deadline:** March 21, 2025
+- **Paper submission deadline:** ~~March 21, 2025~~ → **April 4, 2025**
 - **Notification of acceptance:** April 30, 2025
 - **Camera ready paper due:** May 26, 2025
 - **NLPSI Workshop day:** June 23, 2025
