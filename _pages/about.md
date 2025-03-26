@@ -48,6 +48,7 @@ NLPSI seeks to bridge these two disciplines with a primary focus on NLP research
 ### Invited Speaker
 {% include speakers.liquid center=true %}
 
+Dr Bennett Kleinberg is an Associate Professor in Behavioural Data Science at the Department of Methodology and Statistics at Tilburg University (The Netherlands) and the Department of Security and Crime Science at University College London (UK). He previously held a position at the UCL Dawes Centre for Future Crime and obtained his PhD from the Department of Psychology at the University of Amsterdam. His research revolves around the interplay and advancement of computational methods and psychological research to study human behaviour. With his lab, he seeks to answer two questions: (1) How can computational methods enhance our understanding of human behaviour? (2) How can psychological research methods inform our understanding of computational model behaviour? Substantive research interests include deception detection, human resilience, and machine behaviour. Methodologically, his work examines the nexus between textual data and psychological processes. His lab employs methods from experimental psychological research, Natural Language Processing, (adversarial) machine learning and statistical modelling. He is also an active contributor to the open science community.
 
 ### Questions
 If you have any questions, please do not hesitate to contact us at <a href="nlpsi-workshop-organizers.nlproc@uni-bamberg.de">nlpsi-workshop-organizers.nlproc@uni-bamberg.de</a>.
