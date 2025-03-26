@@ -46,8 +46,8 @@ NLPSI seeks to bridge these two disciplines with a primary focus on NLP research
 - **NLPSI Workshop day:** June 23, 2025
 
 ### Invited Speaker
+{% include speakers.liquid center=true %}
 
-TBD
 
 ### Questions
 If you have any questions, please do not hesitate to contact us at <a href="nlpsi-workshop-organizers.nlproc@uni-bamberg.de">nlpsi-workshop-organizers.nlproc@uni-bamberg.de</a>.
