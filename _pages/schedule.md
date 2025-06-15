@@ -92,7 +92,7 @@ nav_order: 3
       <td>Networking Session</td>
     </tr>
     <tr>
-      <td>10:30 - 11:50</td>
+      <td>10:20 - 11:50</td>
       <td>Interactive Presentations (Poster/Talks)</td>
     </tr>
     <tr>
