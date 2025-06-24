@@ -11,16 +11,18 @@ nav_order: 4
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
 
-<h2>Photo Gallery</h2>
+<h2>Snaps</h2>
 
 <div class="gallery js-flickity"
      data-flickity-options='{ "wrapAround": true, "autoPlay": 3000, "imagesLoaded": true }'>
   
+  <div class="gallery-cell"><img src="/assets/img/highlights/orga.jpeg" alt="Workshop Image 0"></div>
   <div class="gallery-cell"><img src="/assets/img/highlights/keynote.jpeg" alt="Workshop Image 1"></div>
   <div class="gallery-cell"><img src="/assets/img/highlights/networking.jpeg" alt="Workshop Image 2"></div>
   <div class="gallery-cell"><img src="/assets/img/highlights/poster.jpeg" alt="Workshop Image 3"></div>
-  <div class="gallery-cell"><img src="/assets/img/highlights/poster1.jpeg" alt="Workshop Image 4"></div>
-  <div class="gallery-cell"><img src="/assets/img/highlights/poster2.jpeg" alt="Workshop Image 5"></div>
+  <div class="gallery-cell"><img src="/assets/img/highlights/poster2.jpeg" alt="Workshop Image 4"></div>
+  <div class="gallery-cell"><img src="/assets/img/highlights/poster3.jpeg" alt="Workshop Image 5"></div>
+  <div class="gallery-cell"><img src="/assets/img/highlights/audience.jpeg" alt="Workshop Image 6"></div>
 
   <!-- Add more as needed -->
 </div>
