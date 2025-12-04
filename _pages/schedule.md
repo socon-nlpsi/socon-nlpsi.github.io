@@ -62,51 +62,6 @@ nav_order: 3
 }
 </style>
 
-
-<table class="schedule-table">
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Activity</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>7:30</td>
-      <td>Conference registration begins</td>
-    </tr>
-    <tr>
-      <td>8:00 - 8:15</td>
-      <td>Opening Remarks</td>
-    </tr>
-    <tr>
-      <td>8:15 - 9:15</td>
-      <td>Keynote Talk</td>
-    </tr>
-    <tr>
-      <td>9:15 - 9:30</td>
-      <td>Coffee Break</td>
-    </tr>
-    <tr>
-      <td>9:30 - 10:20</td>
-      <td>Networking Session</td>
-    </tr>
-    <tr>
-      <td>10:20 - 11:50</td>
-      <td>Interactive Presentations (Poster/Talks)</td>
-    </tr>
-    <tr>
-      <td>11:50 - 12:00</td>
-      <td>Closing Remarks</td>
-    </tr>
-  </tbody>
-</table>
-
-
-## Location
-
-**Address:** A.C. Meyers Vænge 15, Building A, **Room 1.0.001**, 2450 København, Denmark  
-
-[View on Google Maps](https://maps.app.goo.gl/N54XfNXDsrrq5TMB9)
+TBA
 
 ---

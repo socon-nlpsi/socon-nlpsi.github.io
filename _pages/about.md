@@ -31,27 +31,35 @@ latest_posts:
   <span style="font-size:26px; color:#888;">NLPSI @ LREC 2026</span>
 </h2>
 
-Recent advances in natural language processing (NLP) have enabled not only the modeling of syntax and semantics but also the analysis of higher-level aspects of human communication—such as pragmatics, social dynamics, and emotional expression. Building on these advances, we can now address foundational questions that remain relatively unexplored in NLP: What are the core psychological processes that shape human behavior and communication? What factors influence how individuals perceive, process, and produce language, and how do these processes impact communication? Psychology has been studying human behavior, perception, and communication for years, offering valuable insights into these questions. At the same time, NLP allows us to move beyond controlled, small-scale experiments and conduct large-scale studies to better explore key theories and research questions in psychology.
+## Social Context (SoCon) and Integrating NLP and Psychology to Study Social Interactions (NLPSI)  
 
-NLPSI seeks to bridge these two disciplines with a primary focus on NLP research grounded in psychological theories. This interdisciplinary workshop invites researchers from NLP, Social Psychology, Communication Sciences, Affective Computing, and related fields to submit their work. We invite researchers to explore how psychological phenomena manifest in language, with a focus on integrating NLP and psychological theories. We are particularly interested in studies on communication and interpersonal interactions, as well as innovative approaches that adapt experimental designs from psychology to create rich corpora. Additionally, we encourage discussions on how NLP, including generative models, can advance social psychology research by simulating social interactions, opening new possibilities for studying human behavior at scale, both in human and AI contexts.
+SoCon and NLPSI will be co-located with the 15th conference on Language Resources and Evaluation (LREC’26), held in Palau de Congressos de Palma, Palma de Mallorca (Spain), on 11-16 May 2026.
 
-#### [Call for papers](https://nlpsi-workshop.github.io/call_for_papers/)
+__Deadline for paper submission:__ February 6th, 2026
+__website:__ https://socon-nlpsi.github.io
+
+### Overview
+Natural Language Processing (NLP) has undergone a significant evolution, opening up the possibility of capturing high-level aspects of human communication. Key areas of interest include the pragmatics, social dynamics, and the integration of social context, to further explore communicative intent. The SoCon and NLPSI workshops share a common interest in the social dimension of communication, although they address distinct challenges.
+ 
+The __Social Context Workshop__ focuses on exploring the mechanisms through which context shapes language use to accurately model it. The workshop takes an interdisciplinary approach, seeking to establish a shared vocabulary on this topic and to explore how NLP can be integrated with Pragmatics, Sociolinguistics, and Sociology. By promoting alternatives to traditional crowdsourcing techniques, it aims to provide a platform for advancing community-centred approaches in NLP.
+
+The __NLPSI Workshop__ examines the core psychological processes that shape human behavior and communication, as well as the factors that influence how individuals perceive, process, and produce language, and the impact of these processes on communication. This interdisciplinary workshop welcomes researchers from NLP, Social Psychology, and Affective Computing, intending to conduct large-scale studies that explore key theories and research questions across these domains.
+
+Driven by the shared interest in human communicative behaviors and interactive dynamics, we announce a joint Call for Papers, organized into two specialized tracks: SoCon and NLPSI. To ensure the most appropriate review and placement, authors should direct their work to the track that best aligns with the core focus of their research contributions.
 
 
-## Important Dates
 
-- **Paper submission deadline:** ~~March 21, 2025~~ → **April 4, 2025**
-- **Notification of acceptance:** May 05, 2025
-- **Camera ready paper due:** May 17, 2025
-- **NLPSI Workshop day:** June 23, 2025
+#### [Call for papers](https://socon-nlpsi-workshop.github.io/call_for_papers/)
 
-### Invited Speaker
-{% include speakers.liquid center=true %}
 
-Dr Bennett Kleinberg is an Associate Professor in Behavioural Data Science at the Department of Methodology and Statistics at Tilburg University (The Netherlands) and the Department of Security and Crime Science at University College London (UK). He previously held a position at the UCL Dawes Centre for Future Crime and obtained his PhD from the Department of Psychology at the University of Amsterdam. His research revolves around the interplay and advancement of computational methods and psychological research to study human behaviour. With his lab, he seeks to answer two questions: (1) How can computational methods enhance our understanding of human behaviour? (2) How can psychological research methods inform our understanding of computational model behaviour? Substantive research interests include deception detection, human resilience, and machine behaviour. Methodologically, his work examines the nexus between textual data and psychological processes. His lab employs methods from experimental psychological research, Natural Language Processing, (adversarial) machine learning and statistical modelling. He is also an active contributor to the open science community.
+### Important Dates
+* __Paper submission deadline__: February 6th, 2026
+* __Notification of acceptance__: March 13th, 2026
+* __Camera ready__: March 30th 2026
+* __Workshop day__: TBA 
 
 ### Questions
-If you have any questions, please do not hesitate to contact us at <a href="nlpsi-workshop-organizers.nlproc@uni-bamberg.de">nlpsi-workshop-organizers.nlproc@uni-bamberg.de</a>.
+If you have any questions, please do not hesitate to contact us at  [social-context-workshop@googlegroups.com](social-context-workshop@googlegroups.com) or <a href="nlpsi-workshop-organizers.nlproc@uni-bamberg.de">nlpsi-workshop-organizers.nlproc@uni-bamberg.de</a>.
 
 ### Organizers
 {% include organizers.liquid center=true %}
