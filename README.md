@@ -1,6 +1,6 @@
 
 
-# SOCON-NLPSI Workshop @LREC
+# SoCon-NLPSI Workshop @LREC
 
 Repository for website: [https://socon-nlpsi.github.io](https://socon-nlpsi.github.io)  
 

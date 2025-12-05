@@ -26,17 +26,16 @@ latest_posts:
 ---
 
 <h2 style="text-align:center; font-size:32px; font-weight:600; margin-bottom:20px; color:#888;">
-  Second Workshop on<br>
-  <span style="color:#4A90E2;">Integrating NLP and Psychology  to Study Social Interactions</span><br>
-  <span style="font-size:26px; color:#888;">NLPSI @ LREC 2026</span>
+  Workshop on<br>
+  <span style="color:#4A90E2;">Social Context (SoCon) and Integrating NLP and Psychology to Study Social Interactions (NLPSI)</span><br>
+  <span style="font-size:26px; color:#888;">SoCon-NLPSI @ LREC 2026</span>
 </h2>
 
-## Social Context (SoCon) and Integrating NLP and Psychology to Study Social Interactions (NLPSI)  
 
-SoCon and NLPSI will be co-located with the 15th conference on Language Resources and Evaluation (LREC’26), held in Palau de Congressos de Palma, Palma de Mallorca (Spain), on 11-16 May 2026.
+__SoCon__ and __NLPSI__ will be co-located with the **15th conference on Language Resources and Evaluation (LREC’26)**, held in Palau de Congressos de Palma, Palma de Mallorca (Spain), on 11-16 May 2026.
 
 __Deadline for paper submission:__ February 6th, 2026
-__website:__ https://socon-nlpsi.github.io
+
 
 ### Overview
 Natural Language Processing (NLP) has undergone a significant evolution, opening up the possibility of capturing high-level aspects of human communication. Key areas of interest include the pragmatics, social dynamics, and the integration of social context, to further explore communicative intent. The SoCon and NLPSI workshops share a common interest in the social dimension of communication, although they address distinct challenges.
