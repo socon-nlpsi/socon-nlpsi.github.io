@@ -58,7 +58,6 @@ We welcome submissions on topics including, but not limited to, the following:
 * Communication patterns: such as empathy, persuasion, and conflict resolution.
 * Role of emotions in interpersonal communication: including phenomena like emotion contagion and interpersonal emotion regulation.
 * LLMs in experimental, interactional studies.
-* Psychological constructs and theories across cultures: cCross-cultural variations in communication and behavior.
 
 For any questions, contact us at  [nlpsi-workshop-organizers.nlproc@uni-bamberg.de](nlpsi-workshop-organizers.nlproc@uni-bamberg.de) .
 
