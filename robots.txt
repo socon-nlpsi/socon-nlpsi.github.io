@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://nlpsi-workshop.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://socon-nlpsi.github.io/sitemap.xml
