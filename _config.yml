@@ -2,21 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: NLPSI'25 # the website title (if blank, full name will be used instead)
+title: SoCon-NLPSI'26 # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name:
-last_name: First Workshop on Integrating NLP and Psychology to Study Social Interactions (NLPSI) at ICWSM 2025
+last_name: Social Context (SoCon) and Integrating NLP and Psychology to Study Social Interactions (NLPSI)
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  An interdisciplinary exchange between NLP and Psychology to understand social interactions.
+  Natural Language Processing (NLP) has undergone a significant evolution, opening up the possibility of capturing high-level aspects of human communication. Key areas of interest include the pragmatics, social dynamics, and the integration of social context, to further explore communicative intent. The SoCon and NLPSI workshops share a common interest in the social dimension of communication, although they address distinct challenges.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: social-psychology, nlp, social-interactions # add your own keywords or leave empty
+keywords: socon, nlpsi, social-psychology, nlp, social-interactions, social communities, sociology # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💬Ψ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://nlpsi-workshop.github.io # the base hostname & protocol for your site
+url: https://socon-nlpsi.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -64,7 +64,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: https://nlpsi-workshop.github.io/assets/img/HD_transparent_picture.png # The site-wide (default for all links) Open Graph preview image
+og_image: https://socon-nlpsi.github.io/assets/img/HD_transparent_picture.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
