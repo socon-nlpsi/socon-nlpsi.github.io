@@ -34,7 +34,7 @@ latest_posts:
 
 __SoCon__ and __NLPSI__ will be co-located with the **15th conference on Language Resources and Evaluation (LREC’26)**, held in Palau de Congressos de Palma, Palma de Mallorca (Spain), on 11-16 May 2026.
 
-__Deadline for paper submission:__ February 6th, 2026
+__Deadline for paper submission:__ February 16th, 2026
 
 
 ### Overview
@@ -52,10 +52,10 @@ Driven by the shared interest in human communicative behaviors and interactive d
 
 
 ### Important Dates
-* __Paper submission deadline__: February 6th, 2026
-* __Notification of acceptance__: March 13th, 2026
+* __Paper submission deadline__: February 16th, 2026
+* __Notification of acceptance__: March 23th, 2026
 * __Camera ready__: March 30th 2026
-* __Workshop day__: TBA 
+* __Workshop day__: May 12th, 2026 
 
 ### Questions
 If you have any questions, please do not hesitate to contact us at  [social-context-workshop@googlegroups.com](social-context-workshop@googlegroups.com) or <a href="nlpsi-workshop-organizers.nlproc@uni-bamberg.de">nlpsi-workshop-organizers.nlproc@uni-bamberg.de</a>.

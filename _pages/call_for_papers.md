@@ -86,10 +86,10 @@ Paper presentations (oral and lightning talks)
 interactive activity: annotation lab
 
 ### Important Dates
-* __Paper submission deadline__: February 6th, 2026
-* __Notification of acceptance__: March 13th, 2026
+* __Paper submission deadline__: February 16th, 2026
+* __Notification of acceptance__: March 23th, 2026
 * __Camera ready__: March 30th 2026
-* __Workshop day__: TBA 
+* __Workshop day__: May 12th, 2026 
 
 
 ### Organizers
