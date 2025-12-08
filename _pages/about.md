@@ -48,7 +48,7 @@ Driven by the shared interest in human communicative behaviors and interactive d
 
 
 
-#### [Call for papers](https://socon-nlpsi-workshop.github.io/call_for_papers/)
+#### [Call for papers](https://socon-nlpsi.github.io/call_for_papers/)
 
 
 ### Important Dates
