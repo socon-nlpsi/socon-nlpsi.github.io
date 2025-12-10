@@ -113,6 +113,7 @@ Marteen Sap, Carnegie Mellon University
 
 Seid Muhie Yimam, Hamburg University
 
+
 __NLPSI__
 
 Aswathy Velutharambath, University of Bamberg
@@ -120,6 +121,8 @@ Aswathy Velutharambath, University of Bamberg
 Sofie Labat, Ghent University
 
 Neele Falk, University of Stuttgart
+
+Bennett Kleinberg, Tilburg University, University College London
 
 Flor Miriam Plaza-del-Arco, Bocconi University
 
