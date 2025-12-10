@@ -94,6 +94,7 @@ interactive activity: annotation lab
 ### Organizers
 
 __SoCon__
+
 Marco Antonio Stranisci, University of Turin
 
 Soda Marem Lo, University of Turin
@@ -113,6 +114,7 @@ Marteen Sap, Carnegie Mellon University
 Seid Muhie Yimam, Hamburg University
 
 __NLPSI__
+
 Aswathy Velutharambath, University of Bamberg
 
 Sofie Labat, Ghent University
