@@ -93,39 +93,24 @@ interactive activity: annotation lab
 
 ### Organizers
 
-__SoCon__
+__SoCon__ <br>
 
-Marco Antonio Stranisci, University of Turin
-
-Soda Marem Lo, University of Turin
-
-Sabine Weber, Bamberg University
-
-Rossana Damiano, University of Turin
-
-Simona Frenda, Heriot-Watt University
-
-Roman Klinger, Bamberg University
-
-Viviana Patti, University of Turin
-
-Marteen Sap, Carnegie Mellon University
-
+Marco Antonio Stranisci, University of Turin <br>
+Soda Marem Lo, University of Turin <br>
+Sabine Weber, Bamberg University <br>
+Rossana Damiano, University of Turin <br>
+Simona Frenda, Heriot-Watt University <br>
+Roman Klinger, Bamberg University <br>
+Viviana Patti, University of Turin <br>
+Marteen Sap, Carnegie Mellon University <br>
 Seid Muhie Yimam, Hamburg University
 
 
-__NLPSI__
-
-Aswathy Velutharambath, University of Bamberg
-
-Sofie Labat, Ghent University
-
-Neele Falk, University of Stuttgart
-
-Bennett Kleinberg, Tilburg University, University College London
-
-Flor Miriam Plaza-del-Arco, Bocconi University
-
-Roman Klinger, University of Bamberg
-
-Véronique Hoste, Ghent University
+__NLPSI__ <br>
+Aswathy Velutharambath, University of Bamberg <br>
+Sofie Labat, Ghent University <br>
+Neele Falk, University of Stuttgart <br>
+Bennett Kleinberg, Tilburg University, University College London <br>
+Flor Miriam Plaza-del-Arco, Bocconi University <br>
+Roman Klinger, University of Bamberg <br>
+Véronique Hoste, Ghent University 
