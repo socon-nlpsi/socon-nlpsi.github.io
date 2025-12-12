@@ -15,6 +15,7 @@ SoCon and NLPSI will be co-located with the 15th conference on Language Resource
 
 __Deadline for paper submission:__ February 6th, 2026
 __website:__ https://socon-nlpsi.github.io
+__contacts:__ socon-nlpsi-workshop-organizers.nlproc@uni-bamberg.de 
 
 ### Overview
 Natural Language Processing (NLP) has undergone a significant evolution, opening up the possibility of capturing high-level aspects of human communication. Key areas of interest include the pragmatics, social dynamics, and the integration of social context, to further explore communicative intent. The SoCon and NLPSI workshops share a common interest in the social dimension of communication, although they address distinct challenges.
@@ -41,9 +42,6 @@ We welcome submissions on topics including, but not limited to, the following:
 * Investigating ethical challenges in the creation of NLP resources: participatory design, involving communities affected by specific issues (e.g., low-resource language speakers or non-binary, intersex and trans communities)
 * Explaining behaviors in social interactions: studying the role of social attitudes, and how to model them as the result of the complex interaction between people's backgrounds, communicative contexts, and events that trigger their behavior. 
 
-For any questions, contact us at  [social-context-workshop@googlegroups.com](social-context-workshop@googlegroups.com) . 
-
-
 ### NLPSI Track
 __Bridging the gap between NLP and psychological insights to foster a deeper understanding of social interactions.__
 
@@ -58,9 +56,6 @@ We welcome submissions on topics including, but not limited to, the following:
 * Communication patterns: such as empathy, persuasion, and conflict resolution.
 * Role of emotions in interpersonal communication: including phenomena like emotion contagion and interpersonal emotion regulation.
 * LLMs in experimental, interactional studies.
-
-For any questions, contact us at  [nlpsi-workshop-organizers.nlproc@uni-bamberg.de](nlpsi-workshop-organizers.nlproc@uni-bamberg.de) .
-
 
 ### Submission Types
 We welcome the following types of submissions: 
@@ -111,6 +106,6 @@ Aswathy Velutharambath, University of Bamberg <br>
 Sofie Labat, Ghent University <br>
 Neele Falk, University of Stuttgart <br>
 Bennett Kleinberg, Tilburg University, University College London <br>
-Flor Miriam Plaza-del-Arco, Bocconi University <br>
+Flor Miriam Plaza-del-Arco, Leiden Institute of Advanced Computer Science <br>
 Roman Klinger, University of Bamberg <br>
 Véronique Hoste, Ghent University 
