@@ -52,17 +52,13 @@ The NLPSI Workshop aims to bridge thethis gap  between psychology and NLP by fos
 We welcome submissions on topics including, but not limited to, the following:
 * Psychological constructs: (e.g., beliefs, motives, feelings, affect, personality).
 * Psychological studies: especially those focused on interaction.
-* Language and social identities: including ethnicity and group affiliation.
 * Communication patterns: such as empathy, persuasion, and conflict resolution.
 * Role of emotions in interpersonal communication: including phenomena like emotion contagion and interpersonal emotion regulation.
-* LLMs in experimental, interactional studies.
 
 ### Submission Types
 We welcome the following types of submissions: 
 * __Long papers__ (up to 8 pages) that present original research, from preliminary findings to established contributions, including theory, experiments, or applications.
 * __Short papers__ (up to 4 pages) that introduce emerging ideas, work in progress, or early-stage research with clear significance.
-* __Extended Abstracts__ (up to 2 pages)that present ongoing work, position papers, previously published work, or research projects. Abstracts can be submitted either for inclusion in the proceedings (archival) or as non-archival contributions.
-
 
 ### Submission Guidelines
 * All submissions will be double-blind reviewed 
