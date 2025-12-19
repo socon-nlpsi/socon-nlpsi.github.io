@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First call for papers is out! Paper submission deadline **March 16, 2026**.
+First call for papers is out! Paper submission deadline **February 16, 2026**.
