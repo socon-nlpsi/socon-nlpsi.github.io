@@ -45,8 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-first-call-for-papers-is-out-paper-submission-deadline-march-16-2026",
-          title: 'First call for papers is out! Paper submission deadline March 16, 2026.',
+    },{id: "news-first-call-for-papers-is-out-paper-submission-deadline-february-16-2026",
+          title: 'First call for papers is out! Paper submission deadline February 16, 2026.',
           description: "",
           section: "News",},{
       id: 'light-theme',
