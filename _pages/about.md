@@ -50,6 +50,7 @@ Driven by the shared interest in human communicative behaviors and interactive d
 
 #### [Call for papers](https://socon-nlpsi.github.io/call_for_papers/)
 
+#### [Softconf Submission](https://softconf.com/lrec2026/SoConNLPSI/)
 
 ### Important Dates
 * __Paper submission deadline__: February 16th, 2026

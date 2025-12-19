@@ -64,7 +64,7 @@ We welcome the following types of submissions:
 * All submissions will be double-blind reviewed 
 * Submissions should follow [LREC guidelines](https://lrec2026.info/authors-kit/). Here are all the templates (LaTeX, Word, Open Office, Overleaf LaTeX templates).
 * Page limit applies to the main content of the papers. Sections including limitations, ethical considerations, acknowledgements, references and appendices do not count toward this limit.
-* Submit through [Softconf](https://softconf.com/lrec2026/SoConNLPSI/)
+* Submit through Softconf: [Submission Link](https://softconf.com/lrec2026/SoConNLPSI/)
 
 When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e. also technologies, standards, evaluation kits, etc.) that have been used for the work described in the paper or are a new result of your research. Moreover, ELRA encourages all LREC authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones).  In addition, authors will be required to adhere to ethical research policies on AI and should include an ethics statement in their papers. 
 
