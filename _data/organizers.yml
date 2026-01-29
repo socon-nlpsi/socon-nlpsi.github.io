@@ -47,29 +47,48 @@
 
 - name: "Marco Antonio Stranisci"
   affiliation: "University of Turin"
+  socials:
+    website: "https://marcostranisci.github.io"
+    scholar: "https://scholar.google.com/citations?user=93SGqksAAAAJ&hl=en"
 
 - name: "Soda Marem Lo"
   affiliation: "University of Turin"
+  socials:
+    scholar: "https://scholar.google.com/citations?user=UN-oq-cAAAAJ&hl=it"
 
 - name: "Sabine Weber"
   affiliation: "Bamberg University"
+  socials:
+    website: "https://www.uni-bamberg.de/nlproc/team/dr-sabine-weber/"
+    scholar: "https://scholar.google.com/citations?user=snjif4AAAAAJ&hl=de"
 
 - name: "Rossana Damiano"
   affiliation: "University of Turin"
+  socials:
+    website: "https://www.cs.unito.it/persone/rossana.damiano"
+    scholar: "https://scholar.google.com/citations?user=tVE--JcAAAAJ&hl=en"
 
 - name: "Simona Frenda"
   affiliation: "Heriot-Watt University"
+  socials:
+    website: "https://www.simona-frenda.com/"
+    scholar: "https://researchportal.hw.ac.uk/en/persons/simona-frenda/"
 
 - name: "Viviana Patti"
   affiliation: "University of Turin"
+  socials:
+    website: "https://www.di.unito.it/~patti/"
+    scholar: "https://scholar.google.com/citations?user=Th0j7coAAAAJ&hl=en"
 
 - name: "Maarten Sap"
   affiliation: "Carnegie Mellon University"
   socials:
     website: "https://maartensap.com/"
 
-
 - name: "Seid Muhie Yimam"
   affiliation: "Hamburg University"
+  socials:
+    website: "https://seyyaw.github.io"
+    scholar: "https://scholar.google.de/citations?user=rDKEGNgAAAAJ&hl=en"
 
 
