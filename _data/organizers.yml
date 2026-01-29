@@ -48,7 +48,6 @@
 - name: "Marco Antonio Stranisci"
   affiliation: "University of Turin"
 
-
 - name: "Soda Marem Lo"
   affiliation: "University of Turin"
 
@@ -66,7 +65,11 @@
 
 - name: "Maarten Sap"
   affiliation: "Carnegie Mellon University"
+  socials:
+    website: "https://maartensap.com/"
+
 
 - name: "Seid Muhie Yimam"
   affiliation: "Hamburg University"
+
 
