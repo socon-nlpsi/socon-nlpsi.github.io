@@ -3,15 +3,12 @@
   socials:
     website: "https://www.ims.uni-stuttgart.de/en/institute/team/Velutharambath/"
     scholar: "https://scholar.google.com/citations?user=lUJhuKQAAAAJ"
-    linkedin: "https://www.linkedin.com/in/aswathy-velutharambath/"
-    bluesky: "https://bsky.app/profile/aswathyve.bsky.social"
 
 - name: "Sofie Labat"
   affiliation: "Ghent University"
   socials:
     website: "https://lt3.ugent.be/people/sofie-labat/"
     scholar: "https://scholar.google.com/citations?user=Ig5RyykAAAAJ"
-    linkedin: "https://www.linkedin.com/in/sofie-labat-27777a151/"
 
 - name: "Neele Falk"
   affiliation: "University of Stuttgart"
@@ -26,24 +23,21 @@
   socials:
     website: "https://fmplaza.github.io/"
     scholar: "https://scholar.google.es/citations?user=4GqDwGEAAAAJ&hl=es"
-    twitter: "https://x.com/florplaza22"
-    bluesky: "https://bsky.app/profile/florplaza.bsky.social"
-    linkedin: "https://www.linkedin.com/in/flor-miriam-plaza-del-arco-phd-395770b9/"
+
 
 - name: "Roman Klinger"
   affiliation: "University of Bamberg"
   socials:
     website: "https://www.romanklinger.de/about/"
     scholar: "https://scholar.google.com/citations?user=1flvefwAAAAJ"
-    bluesky: "https://bsky.app/profile/romanklinger.de"
-    linkedin: "https://www.linkedin.com/in/romanklinger/"
+
 
 - name: "Véronique Hoste"
   affiliation: "Ghent University"
   socials:
     website: "https://lt3.ugent.be/people/veronique-hoste/"
     scholar: "https://scholar.google.com/citations?user=WxOsW3IAAAAJ"
-    linkedin: "https://www.linkedin.com/in/veronique-hoste-5b5b93/"
+
 
 - name: "Marco Antonio Stranisci"
   affiliation: "University of Turin"
@@ -84,6 +78,7 @@
   affiliation: "Carnegie Mellon University"
   socials:
     website: "https://maartensap.com/"
+    scholar: "https://scholar.google.com/citations?user=gFN4QUYAAAAJ&hl=de"
 
 - name: "Seid Muhie Yimam"
   affiliation: "Hamburg University"
