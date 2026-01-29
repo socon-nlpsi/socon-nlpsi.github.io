@@ -61,3 +61,26 @@ Driven by the shared interest in human communicative behaviors and interactive d
 ### Questions
 If you have any questions, please do not hesitate to contact us at <a href="socon-nlpsi-workshop-organizers.nlproc@uni-bamberg.de ">socon-nlpsi-workshop-organizers.nlproc@uni-bamberg.de </a>.
 
+### Organizers
+
+__SoCon__ <br>
+
+Marco Antonio Stranisci, University of Turin <br>
+Soda Marem Lo, University of Turin <br>
+Sabine Weber, Bamberg University <br>
+Rossana Damiano, University of Turin <br>
+Simona Frenda, Heriot-Watt University <br>
+Roman Klinger, Bamberg University <br>
+Viviana Patti, University of Turin <br>
+Maarten Sap, Carnegie Mellon University <br>
+Seid Muhie Yimam, Hamburg University
+
+
+__NLPSI__ <br>
+Aswathy Velutharambath, University of Bamberg <br>
+Sofie Labat, Ghent University <br>
+Neele Falk, University of Stuttgart <br>
+Bennett Kleinberg, Tilburg University, University College London <br>
+Flor Miriam Plaza-del-Arco, Leiden Institute of Advanced Computer Science <br>
+Roman Klinger, University of Bamberg <br>
+Véronique Hoste, Ghent University 

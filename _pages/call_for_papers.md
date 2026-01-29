@@ -93,7 +93,7 @@ Rossana Damiano, University of Turin <br>
 Simona Frenda, Heriot-Watt University <br>
 Roman Klinger, Bamberg University <br>
 Viviana Patti, University of Turin <br>
-Marteen Sap, Carnegie Mellon University <br>
+Maarten Sap, Carnegie Mellon University <br>
 Seid Muhie Yimam, Hamburg University
 
 
