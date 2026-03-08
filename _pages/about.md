@@ -65,4 +65,4 @@ If you have any questions, please do not hesitate to contact us at <a href="soco
 {% include organizers.liquid center=true %}
 
 ### Sponsors
-{% include sponsored_by.liquid center=true %}
+{% include sponsored_by.liquid center=false %}
