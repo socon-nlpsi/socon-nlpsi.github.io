@@ -169,7 +169,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages", "_scripts","_data/sponsored_by.yml","assets/img/sponsors/"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -209,8 +209,7 @@ exclude:
   - _pages/repositories.md
   - _pages/news.md
   - _data/sponsors.yml
-  - _data/sponsored_by.yml
-  - assets/img/sponsors/
+ 
 keep_files:
   - CNAME
   - .nojekyll
