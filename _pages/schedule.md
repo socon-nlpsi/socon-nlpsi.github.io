@@ -62,6 +62,17 @@ nav_order: 3
 }
 </style>
 
-TBA
+| Session                     | Duration   | Schedule    |
+| --------------------------- | ---------- | ----------- |
+| Welcome session             | 5 min      | 09:00–09:05 |
+| Invited speaker 1           | 45 min     | 09:05–09:50 |
+| Presentation of best papers | 40 min     | 09:50–10:30 |
+| Coffee break                | 30 min     | 10:30–11:00 |
+| Lightning talks             | —          | 11:00–11:30 |
+| Poster session              | —          | 11:30–13:00 |
+| Lunch break                 | 1 h        | 13:00–14:00 |
+| Invited speaker 2           | 45 min     | 14:00–14:45 |
+| Annotation lab              | 1 h 15 min | 14:45–16:00 |
+| Coffee break                | 30 min     | 16:00–16:30 |
+| Poster session              | 1 h 30 min | 16:30–18:00 |
 
----

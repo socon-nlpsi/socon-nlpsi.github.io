@@ -31,6 +31,12 @@
     website: "https://www.romanklinger.de/about/"
     scholar: "https://scholar.google.com/citations?user=1flvefwAAAAJ"
 
+- name: "Bennett Kleinberg"
+  affiliation: "Tilburg University"
+  socials:
+    website: "https://bkleinberg.net/"
+    scholar: "https://scholar.google.com/citations?user=Ms2d7OsAAAAJ&hl=en&oi=ao"
+
 
 - name: "Véronique Hoste"
   affiliation: "Ghent University"
