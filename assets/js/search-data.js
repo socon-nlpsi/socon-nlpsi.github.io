@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/call_for_papers/";
           },
-        },{id: "nav-pragm-a-lab",
-          title: "Pragm.A.Lab",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/pragmalab/";
-          },
         },{id: "nav-schedule",
           title: "Schedule",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
+          },
+        },{id: "nav-pragm-a-lab",
+          title: "Pragm.A.Lab",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/pragmalab/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
