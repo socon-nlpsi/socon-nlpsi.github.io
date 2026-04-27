@@ -2,7 +2,7 @@
 layout: page
 title: Previous Editions
 nav: false
-nav_order: 4
+nav_order: 5
 dropdown: false
 children:
   - title: NLPSI'25
